@@ -1,0 +1,20 @@
+{
+  "name": "ch05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Yevhenii Pozniak <jekamanu@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-handlebars": "^8.0.4"
+  }
+}
